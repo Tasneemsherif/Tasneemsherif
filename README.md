@@ -1,6 +1,5 @@
-
+<img src="https://github.com/Tasneemsherif/Tasneemsherif/blob/main/Picture1.jpg" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 # 👩‍💻 Tasneem Sherif Ahmed - Software Engineer 👩‍💻
-<img src="" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
 
 Hey there! Welcome to my coding corner. I'm Tasneem Sherif Ahmed, a passionate software engineer hailing from the land of the pyramids 🇪🇬. My journey through the digital realm has been a whirlwind of creativity and innovation. Let's dive into my coding universe! 🚀
