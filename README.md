@@ -1,4 +1,3 @@
-### Hi there 👋
 # 👩‍💻 Tasneem Sherif Ahmed - Software Engineer 👩‍💻
 
 Hey there! Welcome to my coding corner. I'm Tasneem Sherif Ahmed, a passionate software engineer hailing from the land of the pyramids 🇪🇬. My journey through the digital realm has been a whirlwind of creativity and innovation. Let's dive into my coding universe! 🚀
