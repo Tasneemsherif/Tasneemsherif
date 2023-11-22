@@ -1,4 +1,3 @@
-<img src="https://github.com/Tasneemsherif/Tasneemsherif/blob/main/Picture1.jpg" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 # 👩‍💻 Tasneem Sherif Ahmed - Software Engineer 👩‍💻
 
 
