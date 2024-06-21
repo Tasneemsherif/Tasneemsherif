@@ -1,14 +1,18 @@
-# 👩‍💻 Tasneem Sherif Ahmed - Software Engineer 👩‍💻
+# Tasneem Sherif Ahmed
 
+👩‍💻 Tasneem Sherif Ahmed - Data Scientist 👩‍💻
 
-Hey there! Welcome to my coding corner. I'm Tasneem Sherif Ahmed, a passionate software engineer hailing from the land of the pyramids 🇪🇬. My journey through the digital realm has been a whirlwind of creativity and innovation. Let's dive into my coding universe! 🚀
+Hey there! Welcome to my coding corner. I'm Tasneem Sherif Ahmed, a passionate Data Scientist hailing from the land of the pyramids 🇪🇬. My journey through the digital realm has been a whirlwind of creativity and innovation. Let's dive into my coding universe! 🚀
 
 ## 🔧 Skills & Tech Stack
 
-🌐 Languages: C, C++, C#, Python, SQL, JavaScript, HTML  
-📊 Data: Excel Wizardry, Data Mining, Data Visualization  
-🤖 Machine Learning: NLP Enthusiast, Computer Vision Explorer  
-🔑 Version Control: Git Magician, Plastic SCM Sorcerer  
+🌐 **Languages:** Python, JavaScript, TypeScript, SQL, HTML  
+📊 **Data:** Pandas, Data Scraping, Data Visualization  
+🤖 **Machine Learning:** NLP Enthusiast, Computer Vision Explorer  
+🔧 **Tools:** Docker, Jenkins, Ansible, Kubernetes  
+☁️ **Cloud Platforms:** AWS  
+🔑 **Version Control:** Git, Bash, PowerShell, JSON, YAML
+
 
 ## 🚀 Experience & Projects
 
@@ -20,6 +24,14 @@ Ever wondered what social media reveals about personalities? I've dived into the
 
 ### Image Magic ✨
 I've woven pixels into artistry. My GUI-powered image processing spells can filter, enhance, and transform images like never before. User-friendly and enchanting!
+
+
+### E-commerce App 🌐
+An app connecting fabric sellers, tailors, and fashion enthusiasts seamlessly. Designed the user interface and implemented backend functionality using React Native and Node.js.
+
+### Web Scraping & Data Analysis 📊
+Web scraping on business data websites, organizing it into a Pandas DataFrame, cleaning, and manipulating the data for insights.
+
 
 ## 🏆 Awards & Achievements
 
