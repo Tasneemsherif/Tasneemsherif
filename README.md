@@ -5,7 +5,7 @@ Hey there! Welcome to my coding corner. I'm Tasneem , a passionate DevOps and Cl
 ## 🔧 Skills & Tech Stack
 
 **Languages:** Python, JavaScript, TypeScript, SQL, HTML  
-**DevOps & Cloud Tools:** Docker, Jenkins, Ansible, Kubernetes, Terraform, AWS  
+**DevOps & Cloud Tools:** Docker, Jenkins, Ansible, Kubernetes, Terraform, AWS, GCP
 **Scripting & Version Control:** Bash, PowerShell, Git, JSON, YAML
 
 ## 🚀 Experience & Projects
