@@ -16,9 +16,9 @@ Hey there! Welcome to my coding corner. I'm Tasneem Sherif Ahmed, a passionate D
 Engineered a robust application connecting fabric sellers, tailors, and fashion enthusiasts. Designed an intuitive user interface using React Native and implemented a scalable backend with Node.js, complemented by CI/CD practices for reliable deployments.  
 [Check it out here!](https://github.com/Tasneemsherif/Fabric-2-Fit)
 
-<!--
-Additional projects and experiments showcase my versatility, but the focus here is on creating resilient, automated systems for real-world applications.
--->
+### Serverless ToDO APP on AWS 🏗️  
+A fully serverless task management system hosted entirely on AWS. This project demonstrates a clean serverless backend using AWS Lambda, API Gateway, and DynamoDB, along with a frontend hosted on S3.
+[Check it out here!](https://github.com/Tasneemsherif/Serverless-To-Do-App)
 
 ## 🏆 Awards & Achievements
 
