@@ -1,6 +1,6 @@
 # Tasneem Sherif Ahmed
 
-Hey there! Welcome to my coding corner. I'm Tasneem Sherif Ahmed, a passionate DevOps and Cloud Engineer from Cairo, Egypt. I specialize in building scalable, secure, and automated infrastructures that bridge development and operations. Let's dive into my world of code, innovation, and continuous improvement! 🚀
+Hey there! Welcome to my coding corner. I'm Tasneem , a passionate DevOps and Cloud Engineer from Egypt. I specialize in building scalable, secure, and automated infrastructures that bridge development and operations. Let's dive into my world of code, innovation, and continuous improvement! 🚀
 
 ## 🔧 Skills & Tech Stack
 
